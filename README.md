@@ -47,3 +47,35 @@ Functionality refers to the actions and features a user can interact with in the
 - A **search bar** in a wireframe might have a **search button** next to it. When clicked, the search button is expected to trigger a search action and display results on the page.
 
 ---
+
+## Types of Wireframes
+
+Wireframes come in various levels of detail and fidelity, depending on the stage of the design process. The two primary types of wireframes are **low-fidelity** and **high-fidelity**, each serving different purposes at various stages of the project.
+
+### 1. **Low-Fidelity Wireframes**
+Low-fidelity wireframes are basic, **sketch-like representations** of the layout. They focus on **structure and functionality** rather than visual design, providing a clear overview of the interface’s organization. These wireframes are typically **simple** and **unpolished**, often created with pen and paper, or digital tools with minimal design detail.
+
+**When to Use:**
+- Early in the design process to explore ideas
+- To quickly test and iterate on different layout concepts
+- When working with stakeholders to discuss general flow and structure without getting distracted by visual details
+
+**Example:**
+- A low-fidelity wireframe might feature **boxes** to represent images, **lines** for text, and **placeholder text** to show where content will go. There may be no colors, fonts, or branding yet.
+
+### 2. **High-Fidelity Wireframes**
+High-fidelity wireframes are more **detailed and refined** than low-fidelity wireframes. These typically include a **close-to-final design**, with accurate proportions, colors, fonts, and sometimes even **interactive elements**. They allow stakeholders and developers to visualize the interface with greater accuracy.
+
+**When to Use:**
+- Later in the design process when most layout decisions are made
+- When the team needs a more realistic depiction of the interface to test specific interactions
+- To give stakeholders a clearer understanding of the final user experience
+
+**Example:**
+- A high-fidelity wireframe might resemble the final version of the website or app, with **real images**, **specific fonts**, and even interactive **buttons** that show what happens when clicked.
+
+### Type of Wireframe in This Repository
+
+The wireframe used in this repository is **low-fidelity**. The focus here is on **structure and layout** rather than visual design or interactive elements. 
+
+---
