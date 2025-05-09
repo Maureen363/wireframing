@@ -79,3 +79,25 @@ High-fidelity wireframes are more **detailed and refined** than low-fidelity wir
 The wireframe used in this repository is **low-fidelity**. The focus here is on **structure and layout** rather than visual design or interactive elements. 
 
 ---
+
+## Wireframing Tools
+
+There are several tools available for creating wireframes, each catering to different needs in the design process. Below are some popular wireframing tools, with a special emphasis on **Figma** due to its versatile features.
+
+### **Figma**
+
+**Figma** is a popular, cloud-based design tool that is widely used for both **wireframing** and **UI/UX design**. It allows designers to create interactive prototypes, collaborate in real-time, and share designs seamlessly across teams.
+
+**Key Features:**
+- **Real-time collaboration**: Multiple designers or team members can work on the same wireframe simultaneously, making it easier to iterate and get feedback.
+- **Vector networks**: Figma offers a flexible and intuitive vector editing system, which makes it ideal for creating detailed wireframes with precision.
+- **Design systems**: Figma allows you to set up reusable components, making wireframing more efficient and consistent.
+- **Prototyping**: Designers can quickly turn wireframes into interactive prototypes, allowing for user testing and experience validation.
+- **Cloud-based**: Since Figma is cloud-based, files are automatically saved and accessible from anywhere, on any device.
+
+**Why Figma is Useful for Wireframing:**
+- **User-friendly**: Figma’s interface is easy to learn and use, even for beginners, which makes it a great tool for wireframing.
+- **Collaboration**: Its collaboration features make it perfect for teams working on wireframes together, especially in remote work environments.
+- **Flexibility**: Figma is not only great for wireframing but also supports the full design process, from prototyping to high-fidelity UI design.
+
+---
