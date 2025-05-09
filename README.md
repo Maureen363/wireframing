@@ -127,3 +127,18 @@ Wireframes allow the team to prioritize functionality over visual design, ensuri
 - A wireframe of a **login page** might focus solely on the fields (username, password) and **login button** without getting bogged down in colors or fonts, which helps the development team to focus on user authentication logic first.
 
 ---
+
+## Real-World Scenario: Identifying Usability Issues with Wireframing
+
+In the design of a **restaurant booking system**, the wireframes initially showed a **filter sidebar** for customers to select a specific type of cuisine, restaurant location, and price range. However, during user testing, it was revealed that many users were confused by the **placement of the filter options**. Users found it hard to find and use the filter effectively.
+
+### Issue Identified:
+- The filter sidebar was placed at the bottom of the screen, requiring users to scroll to see all the options. This caused confusion as users often missed it, leading to frustration and errors in selection.
+
+### Resolution:
+- The wireframe was revised to move the filter options to the **left-hand sidebar**, a more conventional placement in most booking systems. The team also made the filter options **sticky**, ensuring that they remained visible as the user scrolled.
+
+### Impact on the Final Product:
+- Moving the filter made the booking system much easier to use. It became more intuitive, reducing the time users spent trying to find and use the filter. This resulted in a more seamless user experience and higher conversion rates as users were able to make decisions faster.
+
+---
